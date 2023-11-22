@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Azure**
 
-- 👨‍💻 All of my projects are available at [https://mallireddyn.netlify.app](https://mallireddyn.netlify.app)
+- 👨‍💻 My portfolio [https://mallireddyn.netlify.app](https://mallireddyn.netlify.app)
 
 - 💬 Ask me about **Java, Spring boot and Microservices**
 
