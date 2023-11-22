@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mallikarjuna Reddy N</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align=“right” alt=“software-engineer” width=“400” src=“https://img.freepik.com/premium-vector/man-programmer-software-developer-working-web-development-computer-back-view-man-work-script-coding-programming-php-python-javascript-other-languages-computer-screen_352905-155.jpg”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallikarjunareddyn&label=Profile%20views&color=0e75b6&style=flat" alt="mallikarjunareddyn" /> </p>
 
 - 🔭 I’m currently working on [Copier Springboot](https://github.com/MallikarjunaReddyN/copier-springboot)
